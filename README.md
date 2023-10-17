@@ -1,27 +1,25 @@
-# [¿Kierez Zer My Novia?](¿https://elliotgaramendi.github.io/kierrez-zer-my-nobia/)
+# [Elliot Garamendi](https://folio-web-fredy-avalos.netlify.app/#)
 
-[![¿Kierez Zer My Nobia?](https://i.posting.cc/fbMRVXsH/kierrez-zer-my-nobia.png)](https://elliotgaramendi.github.io/kierrez-zer-my-nobia/)
+[![Elliot Garamendi](https://i.postimg.cc/zGmCPV3r/imagen-2023-10-16-212026811.png)](https://folio-web-fredy-avalos.netlify.app/#)
 
-## (emoji) Resumen (emoji)
-Web para declararte a tu Crush. Aprende a desarrollar una página web y publícalo en internet para que lo puedas compartir con esa persona que mucho te dice que no.
+## 🚪 Resumen 🚪
+Portafolio web que describe los proyectos terminados y en avance para dar una demostración de las habilidades de Software
 
-## (emoji2) Instalación (emoji2)
+## 💻 Instalación 💻
 - Ubicarse en la carpeta que contendrá el proyecto
 - Abrir terminal de comandos
-  - git clone https://github.com/elliotgaramendi/kierrez-zer-my-nobia.git
-  - cd kierrez-zer-my-nobia
+  - gh repo clone fredyavalos2023ok/Folio-Web
+  - cd Folio-Web
   - Levantar la web en un servidor y disfrutar
 
-## (emoji3) Tecnologías usadas (emoji3)
+## 👩‍💻 Tecnologías usadas 👩‍💻
 | Tecnología | Versión | Descripción                                                                     |
 |--------------------------------------------------------------------------------------------------------|
 | HTML       | 5       | Lenguaje de Marcas que define el significado y la estructura del contenido web. |
 | CSS        | 3       | Lenguaje de estilos utilizado para describir la presentación de documento.      |
-| Javascript | ES 2011 | Lenguaje de programación ligero, interpretado, o compilado justo-a-tiempo.      |
 
-## (emoji4) Redes Sociales (emoji4)
-- (emoji5) YouTube: https://www.youtube.com/@elliotgaramendi (emoji5)
-- (emoji5) GitHub: https://github.com/elliotgaramendi (emoji5)
-- (emoji5) Linkedin: https://www.linkedin.com/in/elliotgaramendi/ (emoji5)
-- (emoji5) Instagram: https://www.instagram.com/elliotgaramendi/ (emoji5)
-
+## 🤓 Redes Sociales 🤓
+- 🔗 YouTube: https://www.youtube.com/@elliotgaramendi 🔗
+- 🔗 GitHub: https://github.com/elliotgaramendi 🔗
+- 🔗 Linkedin: https://www.linkedin.com/in/elliotgaramendi/ 🔗
+- 🔗 Instagram: https://www.instagram.com/elliotgaramendi/ 🔗
