@@ -1,6 +1,6 @@
 # [Fredy Avalos](https://folio-web-fredy-avalos.netlify.app/#)
 
-[![Fredy Avalos](https://i.postimg.cc/zGmCPV3r/imagen-2023-10-16-212026811.png)](https://folio-web-fredy-avalos.netlify.app/#)
+[![Fredy Avalos](https://i.postimg.cc/Ss0fjHQF/imagen-2023-10-22-131919113.png)](https://folio-web-fredy-avalos.netlify.app/#)
 
 ## 🚪 Resumen 🚪
 Portafolio web que describe los proyectos terminados y en avance para dar una demostración de las habilidades de Software
